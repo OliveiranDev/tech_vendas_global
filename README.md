@@ -1,0 +1,1 @@
+#tech_vendas_global
